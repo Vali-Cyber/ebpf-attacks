@@ -134,9 +134,9 @@ int main(int argc, char *argv[]) {
     initialize(argc, argv);
     // Get the number of CPUs
     int num_procs = get_nprocs();
-    uint64_t counter_value = 1024*256/num_procs;
+    uint64_t counter_value = 1024*512;
     if (TARGET_IS_TRACEE) {
-        counter_value = 1024*1024;
+        counter_value = 1024*1024; // Tracee doesn't have a memory limit so we use a big number
     }
     // Create one counter for each worker process
     uint64_t *counters = (uint64_t *) mmap(NULL, sizeof(uint64_t) * num_procs, PROT_READ | PROT_WRITE,
