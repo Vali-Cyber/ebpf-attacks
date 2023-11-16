@@ -1,4 +1,4 @@
-# Exhaust
+# Delete Keys
 This directory contains a program that finds and deletes all the keys from eBPF maps depending on the
 target application.
 
