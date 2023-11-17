@@ -9,7 +9,7 @@ Each subdirectory has its own README to describe how to test the provided script
 
 [Bypassing Falco With Package Manager by Leonardo Di Donato](https://www.youtube.com/watch?v=iDcYR3BJtPU)
 
-[Using io_uring to Bypass eBPF](https://www.form3.tech/blog/engineering/bypassing-ebpf-tools)
+[Using io_uring to Bypass eBPF by Daniel Teixeira](https://www.form3.tech/blog/engineering/bypassing-ebpf-tools)
 
 [CVE-2019-8339, Falco Resource Consumption](https://nvd.nist.gov/vuln/detail/CVE-2019-8339)
 
