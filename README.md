@@ -13,6 +13,8 @@ Each subdirectory has its own README to describe how to test the provided script
 
 [CVE-2019-8339, Falco Resource Consumption](https://nvd.nist.gov/vuln/detail/CVE-2019-8339)
 
+[CVE-2019-8339 Description](https://sysdig.com/blog/cve-2019-8339-falco-vulnerability/)
+
 [eBPF TOCTOU Attacks](https://www.youtube.com/watch?v=yaAdM8pWKG8)
 
 [eBPF Map Security](https://www.crowdstrike.com/blog/analyzing-the-security-of-ebpf-maps/)

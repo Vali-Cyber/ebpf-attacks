@@ -11,3 +11,6 @@ To target falco while running on the host OS. Specify the `-uring` command
 line flag to use the `io_uring_setup` syscalls. Otherwise, use the `open_by_handle_at` syscall: `./some_weird_syscalls [-uring]`
 
 To target falco while running in a container: `LD_PRELOAD=PATH_TO_some_weird_syscalls.so ls`
+
+## Other Resources
+[Using io_uring to Bypass eBPF](https://www.form3.tech/blog/engineering/bypassing-ebpf-tools)

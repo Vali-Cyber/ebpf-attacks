@@ -9,3 +9,7 @@ The output of the build script is placed in the bin directory.
 To run against falco: `./delete_keys -falco`
 
 To run against tracee: `./delete_keys -tracee`
+
+## Other Resources
+
+[eBPF Map Security](https://www.crowdstrike.com/blog/analyzing-the-security-of-ebpf-maps/)
