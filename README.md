@@ -19,6 +19,6 @@ Each subdirectory has its own README to describe how to test the provided script
 
 [eBPF Map Security](https://www.crowdstrike.com/blog/analyzing-the-security-of-ebpf-maps/)
 
-[eBPF Observability is Not Security](https://www.brendangregg.com/blog/2023-04-28/ebpf-security-issues.html)
+[eBPF Observability is Not Security by Brendan Gregg](https://www.brendangregg.com/blog/2023-04-28/ebpf-security-issues.html)
 
-[Pitfalls of relying on eBPF for security monitoring](https://blog.trailofbits.com/2023/09/25/pitfalls-of-relying-on-ebpf-for-security-monitoring-and-some-solutions/)
+[Pitfalls of relying on eBPF for security monitoring by Artem Dinaburg](https://blog.trailofbits.com/2023/09/25/pitfalls-of-relying-on-ebpf-for-security-monitoring-and-some-solutions/)
