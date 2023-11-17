@@ -9,4 +9,4 @@ Each subdirectory has its own README to describe how to test the provided script
 
 [Bypassing Falco With Package Manager by Leonardo Di Donato](https://www.youtube.com/watch?v=iDcYR3BJtPU)
 
-[Using IO_Uring to Bypass eBPF](https://www.form3.tech/blog/engineering/bypassing-ebpf-tools)
+[Using io_uring to Bypass eBPF](https://www.form3.tech/blog/engineering/bypassing-ebpf-tools)
